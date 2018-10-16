@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aguafina_script</item>
+        <item>@font/bigshot_one</item>
+        <item>@font/days_one</item>
+        <item>@font/domine</item>
+        <item>@font/leckerli_one</item>
+        <item>@font/sonsie_one</item>
+    </array>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_massas"
+            android:title="Massas" />
+        <item
+            android:id="@+id/nav_paes"
+            android:title="Pães" />
+        <item
+            android:id="@+id/nav_saladas"
+            android:title="Saladas" />
+        <item
+            android:id="@+id/nav_sopas"
+            android:title="Sopas" />
+        <item
+            android:id="@+id/nav_bolos"
+            android:title="Bolos" />
+    </group>
+
+
+</menu>
